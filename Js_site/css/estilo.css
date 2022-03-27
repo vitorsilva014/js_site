@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-image: url("../img/fundo.png");
+    background-image: url("../img/luaa.png");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
@@ -21,7 +21,7 @@ body{
     width: max-content;
     padding: 15px;
     border-radius: 10px;
-    background-color: #d9f8f8e1;
+    background-color: #275469e1;
 }
 
 #form_box h2{
